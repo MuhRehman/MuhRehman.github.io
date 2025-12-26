@@ -1153,7 +1153,7 @@ footer .footnote .highlight {
   width: 10px;
 }
 .me {
-  filter: drop-shadow(7px 10px 4px #666);
+  filter: drop-shadow(2px 1px 11px #666)
 }
 .timeline-body ul li {
   text-align: left;
