@@ -18,6 +18,7 @@ body {
   line-height: 20px;
   font-size: 14px;
   color: #726f77;
+  border:2px solid red;
 }
 
 img {
@@ -399,3 +400,4 @@ h1, h2, h3, h4 {
     transform: translateX(0);
   }
 }
+
