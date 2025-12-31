@@ -13,7 +13,6 @@
       }
 
       .Wrapper-timeline {
-        background: #f9f9f9;
         background-size: cover;
         margin: 0;
         padding: 0;
@@ -401,4 +400,5 @@
           -o-transform: translateX(0);
           transform: translateX(0);
         }
+
       }
