@@ -89,7 +89,7 @@
         width: 30px;
         height: 30px;
         position: absolute;
-        top: 0;
+        top: 10px;
         left: 51%;
         overflow: hidden;
         margin-left: -23px;
@@ -402,3 +402,4 @@
         }
 
       }
+
