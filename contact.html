@@ -24,6 +24,7 @@
 	width: 100%;
     overflow: hidden;
 	height: 100vh;  
+	
 	-webkit-font-smoothing: antialiased;
 }
 .section-0:after {
@@ -54,19 +55,20 @@
     -webkit-animation: puff_portrait 0.5s 1.8s cubic-bezier(0.55, 0.055, 0.675, 0.19) forwards, borderRadius 0.2s 2.3s linear forwards;
     animation: puff_portrait 0.5s 1.8s cubic-bezier(0.55, 0.055, 0.675, 0.19) forwards, borderRadius 0.2s 2.3s linear forwards;
 }
-/* h1, h2 {
-    font-weight: 400;
+
+.main-heading {
+    font-size: 24px;
+		 font-weight: 400;
     margin: 0px 0px 5px 0px;
 }
-h1 {
-    font-size: 24px;
-}
-h2 {
+.banner-text {
     font-size: 16px;
+		 font-weight: 400;
+    margin: 0px 0px 5px 0px;
 }
-p {
+.banner-text-inner {
     margin: 0px;
-} */
+} 
 .profile-card {
 	background: #FFB300;
 	width: 56px;
@@ -579,10 +581,10 @@ p {
         </a>
         
         <!-- the username -->
-        <h1>David Jones111111 </h1>
+        <h1 class="main-heading">David Jones111111 </h1>
         
         <!-- and role or location -->
-        <h2>Web Developer</h2>
+        <h2 class="banner-text">Web Developer</h2>
     
     </header>
 
@@ -643,6 +645,7 @@ p {
 </body>
 
 </html>	
+
 
 
 
