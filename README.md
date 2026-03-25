@@ -1,6 +1,11 @@
 # MuhRehman.github.io
 
 Abdul Rehman 
+Front-end Developer · Islamabad
+
+Hello, I'm
+Abdul Rehman.
+I build beautiful, performant web experiences.
 
 Background
 
